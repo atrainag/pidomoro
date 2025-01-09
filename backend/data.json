@@ -1,4 +1,7 @@
 {
   "mode": "Break",
-  "timeLeft": 234
+  "timeLeft": 300,
+  "currState": "Stop",
+  "workDuration": 1500,
+  "breakDuration": 300
 }

@@ -1,0 +1,11 @@
+{"mode": "Work"
+    , "timeLeft": 7,
+    "currState" = "Stop",
+    "mode" : "Work", 
+    "timeLeft" : 1500, 
+    "currState" : "Stop", 
+    "intervalId" : null, 
+    "workDuration" : 1500, 
+    "breakDuration" : 300, 
+
+}
